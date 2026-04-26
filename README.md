@@ -6,7 +6,7 @@ My main motivation is being able to middle finger people and also itd be REALLY 
 I tried to make this as compelex as possible 
 My drawing on the project 
 
-<img width="1152" height="2048" alt="download (2)" src="https://github.com/user-attachments/assets/8a1446be-d3b9-4dc7-9cad-c67e5fbe185b" />
+<img width="1258" height="1102" alt="Xnip2026-04-26_12-08-50" src="https://github.com/user-attachments/assets/e400eb42-1f39-4f6f-9cfc-cf12edbe3b04" />
 
 
 Made for Stasis
